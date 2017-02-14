@@ -21,6 +21,18 @@
 		<name>fontawesome</name>
 	</requires>
 	
+	<requires>
+		<type>priority</type>
+		<priority>after</priority>
+		<plugin>pages</plugin>
+	</requires>
+	
+	<requires>
+		<type>priority</type>
+		<priority>after</priority>
+		<plugin>widget_manager</plugin>
+	</requires>
+	
 	
 	<category>ColdTrick</category>
 </plugin_manifest>

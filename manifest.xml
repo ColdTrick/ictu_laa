@@ -16,5 +16,11 @@
 		<version>1.8</version>
 	</requires>
 	
+	<requires>
+		<type>plugin</type>
+		<name>fontawesome</name>
+	</requires>
+	
+	
 	<category>ColdTrick</category>
 </plugin_manifest>

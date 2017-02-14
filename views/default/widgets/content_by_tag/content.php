@@ -1,4 +1,7 @@
 <?php
+/**
+ * ColdTrick 2017-02-14: changed slim time notation
+ */
 
 $widget = $vars["entity"];
 $result = "";
